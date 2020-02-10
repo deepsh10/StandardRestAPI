@@ -1,0 +1,1 @@
+insert into USER (ID,EMP_ID,PASSWORD,USER_NAME) values (1,'104572','user1234','Deep Shah');
